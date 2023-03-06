@@ -1,6 +1,6 @@
 - Hi, I’m @jamespiotrowski
-- I’m interested in machine learning solutions for e-commerce business and signal processing for human speech. 
-- I’m currently learning about recommendation and volume prediction. 
+- I am a graduate Computer Science student at University of Nevada, Las Vegas (UNLV). My specialties include Data Science, Machine Learning, SQL, & C++. 
+- I research the parallel programming capabilities of Machine Learning using C++ & UNLV's Process-Oriented Programming Language "ProcessJ" (https://github.com/mattunlv/ProcessJ).
 - piotrj1@unlv.nevada.edu or jamespiot86@gmail.com
 
 <!---
